@@ -34,7 +34,6 @@ class WZHUD: UIView {
         indicatorLayer.fillColor = UIColor.clearColor().CGColor
         indicatorLayer.lineWidth = 5
         indicatorLayer.strokeEnd = 0.9
-        
         indicatorLayer.lineCap = kCALineCapRound
         
         self.layer.addSublayer(indicatorLayer)

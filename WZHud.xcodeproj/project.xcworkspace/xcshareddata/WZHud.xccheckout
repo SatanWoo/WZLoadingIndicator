@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2C955438-FBCB-479A-8FC8-545E2220AD2E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WZHud</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FDF1992CFE87B3B560B21804B8BE264A58A5D548</key>
+		<string>https://github.com/SatanWoo/WZLoadingIndicator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WZHud.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FDF1992CFE87B3B560B21804B8BE264A58A5D548</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SatanWoo/WZLoadingIndicator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FDF1992CFE87B3B560B21804B8BE264A58A5D548</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FDF1992CFE87B3B560B21804B8BE264A58A5D548</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WZHud</string>
+		</dict>
+	</array>
+</dict>
+</plist>
